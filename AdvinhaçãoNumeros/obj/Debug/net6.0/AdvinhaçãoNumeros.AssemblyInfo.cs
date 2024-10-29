@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvinhaçãoNumeros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b185db5b363d40826df5e99ded104fa37fcf7556")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvinhaçãoNumeros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvinhaçãoNumeros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

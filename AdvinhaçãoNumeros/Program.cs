@@ -3,6 +3,7 @@ using AdvinhaçãoNumeros.Controller;
 using AdvinhaçãoNumeros.Models;
 
 int nivel;
+bool quer;
 
 Console.WriteLine("\nBem Vindo!\n");
 Console.WriteLine("\nAdvinhe o numero\n");
@@ -18,6 +19,11 @@ Game g = new Game();
 
 Console.WriteLine("Informe o seu nome: ");
 g.InformeNome();
-Console.WriteLine("Informe o nível do jogo: ");
-nivel = int.Parse(Console.ReadLine());
-g.NivelGame(nivel);
+do
+{
+    Console.WriteLine("Informe o nível do jogo: ");
+    nivel = int.Parse(Console.ReadLine());
+    g.NivelGame(nivel);
+    Console.WriteLine("\n\nQuer jogar denovo? (true ou false)");
+    quer = bool.Parse(Console.ReadLine());
+} while (quer == true);

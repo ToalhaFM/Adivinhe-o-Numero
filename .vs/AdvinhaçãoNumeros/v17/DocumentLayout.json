@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\models\\gravarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\models\\gravarjogador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\models\\usuariosjogados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\models\\usuariosjogados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\controller\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\controller\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\controller\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\controller\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\models\\usuariosjogados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\models\\usuariosjogados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|solutionrelative:advinha\u00E7\u00E3onumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1BD00C9-CCB6-463C-9CB9-911C1D54F9B2}|Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj|c:\\users\\jeova\\onedrive\\\u00E1rea de trabalho\\projetos pessoais\\projetos pessoais em cshape\\advinha\u00E7\u00E3onumeros\\advinha\u00E7\u00E3onumeros\\interface\\resposta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "GravarJogador.cs",
+              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Models\\GravarJogador.cs",
+              "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Models\\GravarJogador.cs",
+              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Models\\GravarJogador.cs",
+              "RelativeToolTip": "Advinha\u00E7\u00E3oNumeros\\Models\\GravarJogador.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:33:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cronometro.cs",
+              "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Controller\\Cronometro.cs",
+              "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Controller\\Cronometro.cs",
+              "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Controller\\Cronometro.cs",
+              "RelativeToolTip": "Advinha\u00E7\u00E3oNumeros\\Controller\\Cronometro.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:08:36.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Resposta.cs",
               "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Interface\\Resposta.cs",
               "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Interface\\Resposta.cs",
@@ -42,25 +76,24 @@
               "RelativeToolTip": "Advinha\u00E7\u00E3oNumeros\\Interface\\Resposta.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:31:14.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T11:31:14.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Controller\\Game.cs",
               "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Controller\\Game.cs",
               "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Controller\\Game.cs",
               "RelativeToolTip": "Advinha\u00E7\u00E3oNumeros\\Controller\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAvAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T16:04:17.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Advinha\u00E7\u00E3oNumeros.csproj",
               "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj",
               "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros.csproj",
@@ -72,26 +105,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UsuariosJogados.cs",
               "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Models\\UsuariosJogados.cs",
               "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Models\\UsuariosJogados.cs",
               "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Models\\UsuariosJogados.cs",
               "RelativeToolTip": "Advinha\u00E7\u00E3oNumeros\\Models\\UsuariosJogados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:40:10.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Program.cs",
               "RelativeDocumentMoniker": "Advinha\u00E7\u00E3oNumeros\\Program.cs",
               "ToolTip": "C:\\Users\\jeova\\OneDrive\\\u00C1rea de Trabalho\\Projetos pessoais\\Projetos pessoais em Cshape\\Advinha\u00E7\u00E3oNumeros\\Advinha\u00E7\u00E3oNumeros\\Program.cs",
               "RelativeToolTip": "Advinha\u00E7\u00E3oNumeros\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T15:23:33.864Z",
               "EditorCaption": ""

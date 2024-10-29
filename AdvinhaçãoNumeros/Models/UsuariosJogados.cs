@@ -12,5 +12,6 @@ namespace AdvinhaçãoNumeros.Models
         public string? Nome {  get; set; }
         public string? Nivel { get; set; }
         public bool Ganhou { get; set; }
+        public TimeSpan? Tempo { get; set; }
     }
 }

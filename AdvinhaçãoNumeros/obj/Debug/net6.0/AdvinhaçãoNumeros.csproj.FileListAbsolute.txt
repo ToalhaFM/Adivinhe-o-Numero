@@ -12,3 +12,4 @@ C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em
 C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.pdb
 C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.genruntimeconfig.cache
 C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\ref\AdvinhaçãoNumeros.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.sourcelink.json

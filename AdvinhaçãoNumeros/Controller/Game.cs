@@ -22,6 +22,7 @@ namespace AdvinhaçãoNumeros.Controller
         public void NivelGame(int Nivel) 
         {
             UsuariosJogados usuarios = new UsuariosJogados();
+            Cronometro cr = new Cronometro();
             int cont = 0;   
             Console.WriteLine("\n 1 - Fácil\n 2 - Médio\n 3 - Díficil\n");
             switch (Nivel)
@@ -30,27 +31,32 @@ namespace AdvinhaçãoNumeros.Controller
                     Console.WriteLine("Fácil");
                     usuarios.Nivel = "Fácil";
                     cont = 10;
+                    cr.IniciarCronometro();
                     Console.WriteLine("Informe um número: ");
                     GameGo(cont);
-
+                    cr.ParaCronometro();
                     break;
                 case 2:
                     Console.WriteLine("Médio");
                     usuarios.Nivel = "Médio";
                     cont = 5;
+                    cr.IniciarCronometro();
                     Console.WriteLine("Informe um número: ");
                     GameGo(cont);
+                    cr.ParaCronometro();
                     break;
                 case 3: 
                     Console.WriteLine("Díficil");
                     usuarios.Nivel = "Díficil";
                     cont = 3;
+                    cr.IniciarCronometro();
                     Console.WriteLine("Informe um número: ");
                     GameGo(cont);
+                    cr.ParaCronometro();
                     break;
                 default:
                     Console.WriteLine("\n 1 - Fácil\n 2 - Médio\n 3 - Díficil\n" +
-                        "Informe uma d0s numeros acima");
+                        "Informe uma dos numeros acima");
                     break;
             }
             NivelJ = Nivel;
@@ -70,20 +76,34 @@ namespace AdvinhaçãoNumeros.Controller
                 {
                     resposta.contador = i;
                     resposta.respotando =  "\nParabéns você acertou!!!\n";
+                    Console.WriteLine(resposta.respotando + "com " + resposta.contador + " tentativas");
                     usuariosJogados.Ganhou = true;
                     break;
                 }
                 else
                 {
-                    resposta.contador = i;
-                    resposta.respotando = "\nErrouuuu!!!\n";
-                    Console.WriteLine(resposta.respotando);
-                    usuariosJogados.Ganhou = false;
-                    //Console.WriteLine("Resposta teste: " + aleatorio); //Verificar funcionamento
+                    
+                    if(palpite > aleatorio)
+                    {
+                        resposta.contador = i;
+                        resposta.respotando = "\nPalpite maior que o valou aleatorio!\n Errooooooou!\n";
+                        Console.WriteLine(resposta.respotando);
+                        usuariosJogados.Ganhou = false;
+                        Console.WriteLine("Resposta teste: " + aleatorio); //Verificar funcionamento
+                    }
+                    else
+                    {
+                        resposta.contador = i;
+                        resposta.respotando = "\nPalpite menor que o valou aleatorio!\n Errooooooou!\n";
+                        Console.WriteLine(resposta.respotando);
+                        usuariosJogados.Ganhou = false;
+                        Console.WriteLine("Resposta teste: " + aleatorio); //Verificar funcionamento
+                    }
+
                 }
             }
-            
              return resposta;
         }
+
     }
 }
