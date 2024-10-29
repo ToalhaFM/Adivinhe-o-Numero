@@ -1,0 +1,14 @@
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\bin\Debug\net6.0\AdvinhaçãoNumeros.exe
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\bin\Debug\net6.0\AdvinhaçãoNumeros.deps.json
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\bin\Debug\net6.0\AdvinhaçãoNumeros.runtimeconfig.json
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\bin\Debug\net6.0\AdvinhaçãoNumeros.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\bin\Debug\net6.0\AdvinhaçãoNumeros.pdb
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.AssemblyInfoInputs.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.AssemblyInfo.cs
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\refint\AdvinhaçãoNumeros.dll
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.pdb
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\AdvinhaçãoNumeros.genruntimeconfig.cache
+C:\Users\jeova\OneDrive\Área de Trabalho\Projetos pessoais\Projetos pessoais em Cshape\AdvinhaçãoNumeros\AdvinhaçãoNumeros\obj\Debug\net6.0\ref\AdvinhaçãoNumeros.dll
